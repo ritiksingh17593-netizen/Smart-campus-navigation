@@ -1,4 +1,3 @@
-if_name_=="_main_"
 import math
 import networkx as nx
 import matplotlib.pyplot as plt
